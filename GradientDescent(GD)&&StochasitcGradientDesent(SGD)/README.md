@@ -4,4 +4,4 @@
 * Apply gradient descent (GD) to find the centroid.
 * Apply stochastic gradient descent (SGD) to find the centroid. Can you say in simple words, what the algorithm is doing?
 
-Supplement: In mathematics and physics, the centroid or geometric center of a plane figure is the arithmetic mean position of all the points in the figure. Informally, it is the point at which a cutout of the shape could be perfectly balanced on the tip of a pin.
+  Supplement: In mathematics and physics, the centroid or geometric center of a plane figure is the arithmetic mean position of all the points in the figure. Informally, it is the point at which a cutout of the shape could be perfectly balanced on the tip of a pin.
